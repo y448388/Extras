@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/ciderapp/Cider/releases/download/v1.6.2/Cider-Setup-1.6.2.exe#/dl.7z",
-            "hash": "SKIP"
+            "hash": "99ac83682dff58dd3fddd300ddd8334287f9f204b1711984298557dc785d0192"
         }
     },
     "pre_install": [
