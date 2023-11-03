@@ -6,12 +6,12 @@
     "architecture": {
         "64bit": {
             "url": "https://buildbot.libretro.com/stable/1.16.0/windows/x86_64/RetroArch.7z",
-            "hash": "856921b88dfa194c97bca5fda6b4df2b2663bfe1601f3c031dc16b5179c48f66",
+            "hash": "b92ff4511d6bf6eb9406a1fac953cd9c04f421940ffd2d18b790d5348b5bd95b",
             "extract_dir": "RetroArch-Win64"
         },
         "32bit": {
             "url": "https://buildbot.libretro.com/stable/1.16.0/windows/x86/RetroArch.7z",
-            "hash": "e4bd9de1ac73b44dbebee874d5efbeecc953d080da3242c7a8f6d83b0d6df5d8",
+            "hash": "d38420cee5f930ee365b85800fb13be05cf27d38edf85be86ec481b22ec7aa4e",
             "extract_dir": "RetroArch-Win32"
         }
     },
